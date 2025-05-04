@@ -64,6 +64,7 @@
 
 # Model Nasıl Oluşturulur? (Adım Adım)
 1- Veri Hazırlığı:
+
   merge.txt dosyası okunur ve cümlelere ayrılır. Cümleler hem lemmatize hem de stem edilerek iki ayrı veri kümesi oluşturulur.
 
 2- Önişleme:
@@ -75,6 +76,7 @@
   Lemmatization ve stemming işlemleri yapılır.
 
 3- Model Parametreleri:
+
   Toplam 16 farklı model eğitilir:
 
     2 model türü: CBOW ve Skip-gram
@@ -86,12 +88,15 @@
     2 ön işleme: Lemmatized ve Stemmed
 
 4- Model Eğitimi:
+
   Her parametre kombinasyonu için bir Word2Vec modeli eğitilir ve .model uzantısıyla diske kaydedilir.
 
 5- Örnek Sorgulama:
+
   Eğitilen modeller üzerinde belirli anahtar kelimeler (örneğin: accident, fall) ile most_similar() fonksiyonu çağrılarak en benzer 5 kelime elde edilir.
 
 # Kullanım Senaryosu
+
   İş kazalarının açıklama metinlerinden kaza nedenlerini otomatik olarak tahmin etmek
 
   Kaza türlerine göre önlem stratejileri geliştirmek
