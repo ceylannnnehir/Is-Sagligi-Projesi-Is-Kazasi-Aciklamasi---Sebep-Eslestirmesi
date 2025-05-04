@@ -3,44 +3,44 @@
   Bu proje, iş kazalarına dair açıklama metinlerini doğal dil işleme (NLP) ve Word2Vec modelleri ile analiz ederek, kaza nedenlerinin otomatik olarak anlaşılmasını ve sınıflandırılmasını amaçlar. 16 farklı model ile kelime benzerlikleri incelenerek en iyi sonuç veren model tespit edilir.
 
 # Gerekli Kütüphaneler
-  matplotlib
-  nltk
-  csv
-  requests
-  BeautifulSoup
-  selenium.webdriver
-  selenium
-  ChromeDriverManager
-  NavigableString
-  pandas
-  Scikit-learn
-  numpy
-  os
-  time
-  gensim
+    matplotlib
+    nltk
+    csv
+    requests
+    BeautifulSoup
+    selenium.webdriver
+    selenium
+    ChromeDriverManager
+    NavigableString
+    pandas
+    Scikit-learn
+    numpy
+    os
+    time
+    gensim
 
 
 # Kurulum
-  pip install matplotlib
-  pip install gensim
-  pip install nltk
-  nltk.download('punkt')
-  nltk.download('stopwords')
-  nltk.download('wordnet')
-  pip install requests
-  pip install beautifulsoup4
-  pip install selenium
-  pip install chromedriver-autoinstaller
-  pip install pandas
-  pip install scikit-learn
-  pip install numpy
+    pip install matplotlib
+    pip install gensim
+    pip install nltk
+    nltk.download('punkt')
+    nltk.download('stopwords')
+    nltk.download('wordnet')
+    pip install requests
+    pip install beautifulsoup4
+    pip install selenium
+    pip install chromedriver-autoinstaller
+    pip install pandas
+    pip install scikit-learn
+    pip install numpy
 
 
 # İlk kez çalıştırıyorsanız, aşağıdaki NLTK modüllerini de indirmeniz gerekir:
-  import nltk
-  nltk.download('punkt')
-  nltk.download('stopwords')
-  nltk.download('wordnet')
+    import nltk
+    nltk.download('punkt')
+    nltk.download('stopwords')
+    nltk.download('wordnet')
 
 # Veri Seti
   Kaynak: OSHA (Occupational Safety and Health Administration)
