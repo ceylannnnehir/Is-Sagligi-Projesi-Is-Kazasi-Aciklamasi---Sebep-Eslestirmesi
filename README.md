@@ -43,11 +43,13 @@
     nltk.download('wordnet')
 
 # Veri Seti
-  Kaynak: OSHA (Occupational Safety and Health Administration)
+  Kaynak: 
+  OSHA (Occupational Safety and Health Administration)
   Bu veri seti, Amerika Birleşik Devletleri İş Güvenliği ve Sağlığı İdaresi (OSHA) tarafından yayımlanan iş kazası raporlarına dayanmaktadır. Kazaların açıklama metinleri içerir ve metin madenciliği/NLP uygulamaları için uygundur.
   Projede kullanılan merge.txt dosyası, bu açıklamalardan oluşturulmuş metinlerin birleşiminden oluşur.
   
-  Amaç: İş kazası açıklama metinlerinde geçen kelimelerin semantik yakınlıklarını bulmak ve kazaların nedenlerini belirlemeye yardımcı olacak kelime ilişkilerini modellemek ve metinlerden otomatik çıkarım yapılmasını sağlamak.
+  Amaç: 
+  İş kazası açıklama metinlerinde geçen kelimelerin semantik yakınlıklarını bulmak ve kazaların nedenlerini belirlemeye yardımcı olacak kelime ilişkilerini modellemek ve metinlerden otomatik çıkarım yapılmasını sağlamak.
 
 # Kullanılan Yöntemler
   1. Word2Vec Modelleri
