@@ -1,0 +1,5 @@
+Accident Summary Nr: 169717.015 - Employee dies when electrocuted while welding elevated pipe
+
+Abstract: At 2:49 p.m. on August 27, 2024, Employee #1 was working at an elevated position welding a 20-inch pipe. The employee was preparing to connect the welding rod to the stinger when he was suddenly shocked. Witnesses reported that the employee's body locked up upon attachment of the rod to the stinger, and they were unable to remove the stinger from his hand until the welding machine was turned off. The employee was electrocuted and later died from the injuries.
+
+Keywords: Electric Arc, Electrocuted, Hand, Pipe, Welding

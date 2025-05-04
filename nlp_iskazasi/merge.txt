@@ -1,0 +1,425 @@
+﻿--- ID:  172034.015 ---
+Accident Summary Nr: 172034.015 - Employee is killed after falls through skylight
+
+Abstract: At 2:01 p.m. on July 21, 2024, an employee was working on the roof. The employee was un-drilling metal sheets from the roof. The employee fell through a skylight and landed 25 feet below on the concrete flooring. The employee was pronounced dead onsite due to blunt force trauma.
+
+Keywords: Blunt force trauma, Concrete Floor, Fall, Fall From Elevation, Metal Sheet, Roof, Skylight.
+
+--- ID: 162609.015 ---
+Accident Summary Nr: 162609.015 - Employee painting, slips and falls on electrical cables; die
+
+Abstract: At 10:45 a.m. on December 20, 2023, an employee working for a landscaping service was painting an interior ceiling. The employee bent down to paint when he slipped and fell on some electrical cables. The employee was electrocuted and died.
+
+Keywords: Cable, Ceiling, Electric Shock, Electrical Wire, Electrocuted, Fall, Fall On Same Level, Inexperience, Insufficient Supervision, Lack of Work Procedures, Landscaping, Misjudgment, Misjudgment of Hazardous Situation, PPE, PPE Hazard Assessment, Painting, Protective Clothing, Shock, Slip.
+
+--- ID: 164782.015 ---
+Accident Summary Nr: 164782.015 - Employee dies from electrocution while removing light ballas
+
+Abstract: At 7:18 p.m. on February 20, 2024, an employee working as an electrician for an electrical contractor was removing a light ballast from a ceiling. The employee died from electrocution after his ladder became energized.
+
+Keywords: Ballast--Lighting, Contact, Electric Shock, Electrical Wire, Electrical Work, Electrician, Electrocuted, Glove, Inexperience, Lack of Engineering Controls, Ladder, Lockout, Lockout/Tagout, Metal Ladder, Misjudgment, Misjudgment of Hazardous Situation, Multi-employer Worksite, Multiemployer, PPE, PPE Hazard Assessment, Protective Clothing, Removal, Shock, Wrong Equipment.
+
+--- ID: 167523.015 ---
+Accident Summary Nr: 167523.015 - Employee is killed in fall from step ladder
+
+Abstract: At approximately 1:30 p.m. on June 12, 2024, an employee fell from a step ladder. The employee suffered traumatic injuries, including a head injury, and later died from those injuries.
+
+Keywords: Fall, Fall From Elevation, Head, Stepladder, Traumatic.
+
+--- ID: 167694.015 ---
+Accident Summary Nr: 167694.015 - Employee dies from electrocution while inspecting junction b
+
+Abstract: At 1:00 p.m. on June 24, 2024, an employee and Coworker #1 were working as electricians for an electrical contractor. The team was installing lighting switches and other associated electrical equipment in Room 716 of a commercial building. The team deenergized a circuit that supplied power to an area where they needed to perform work. They thought they had isolated the live circuit from the circuit that fed the area where they needed to work. Coworker #1 conducted some testing on a switch he was working on which was supposed to be deenergized. He discovered through testing the circuit with a hot stick that it was still energized. Coworker #1 then tested the switch with his voltage meter, which indicated a 0-voltage reading. He was not sure why the hot stick was indicating a voltage reading and how the power was getting to the switch. Coworker #1 was in charge of the site because the master electrician was not on site, so he instructed the employee to go inside Room 716 and determine whether the junction box they installed earlier in the day was indicating the same issue he had observed at the switch. After Coworker #1 instructed the employee to do the testing in the junction box, he went down to the third floor to use the bathroom. The employee went into Room 716 to conduct testing on the junction box. Coworker #2 was in the room adjacent to Room 716. Coworker #2 heard the employee yell, so he went to see what had occurred and saw the employee standing on a ladder with his upper body above the suspended ceiling. Coworker #2 attempted to initiate a conversation with the employee, but the employee was unresponsive. Coworker #2 then contacted Coworker #1 via phone to notify him of the situation. Coworker #1 returned to Room 716 to find the employee on the floor and called 911. The employee had somehow contacted a live electrical circuit and died due to being electrocuted.
+
+Keywords: Commercial Building, Construction, Contact, Electric Shock, Electric Switch, Electrical Wire, Electrical Work, Electrician, Electrocuted, Energized, Glove, Inspecting, Installing, Lighting, Lighting Circuit, Lockout, Lockout/Tagout, Machine Guarding, Misjudgment, Misjudgment of Hazardous Situation, Multi-employer Worksite, Multiemployer, PPE, PPE Hazard Assessment, Protective Clothing, Shock, Troubleshooting.
+
+--- ID: 167983.015 ---
+Accident Summary Nr: 167983.015 - Employee is electrocuted after ladder contacts power line
+
+Abstract: At 12:00 a.m. on June 28, 2024, an employee working at a tree trimming job site was holding an aluminum ladder while a coworker used a pole saw to trim a tree. During the trimming process, the pole saw struck a power line, causing the electrical current to travel through the aluminum ladder that the employee was holding. The electrical shock resulted in the employee's fatality.  Another coworker, who was not fatally injured, was also in the vicinity when the power line was struck.
+
+Keywords: Contact, Electric Shock, Electrocuted, Ladder, Power Lines, Saw, Tree Trimming.
+
+--- ID: 167984.015 ---
+Accident Summary Nr: 167984.015 - Employee falls from ladder and injures head, later dies
+
+Abstract: At 12:00 a.m. on June 24, 2024, Employee #1, employed by a construction company, was working on a roof, pulling a board loose. The employee lost his balance while on a ladder and fell approximately 12 feet, striking his head on the ground. Emergency services airlifted him to North Memorial Hospital, where he was treated for severe head injuries. The employee died from his injuries on June 25, 2024.
+
+Keywords: Blunt force trauma, Climbing, Fall, Fall From Elevation, Head, Ladder, Lost Balance, Traumatic Brain Injury.
+
+--- ID: 168030.015 ---
+Accident Summary Nr: 168030.015 - Employee falls while pulling wire through conduit and sustai
+
+Abstract: At 4:02 p.m. on June 28, 2024, Employee #1, employed by an electrical contracting company, was pulling wire through a conduit while standing on an A frame ladder at a construction site. The wire became stuck, and as the employee continued to pull, the wire suddenly came free, causing him to fall backward onto a cement floor. The employee suffered a laceration to the back of the head and a concussion, resulting in employee's death.
+
+Keywords: Concrete Floor, Concussion, Conduit, Fall, Fall From Elevation, Head, Laceration, Ladder, Metal Wire, Pulling, Stuck.
+
+--- ID: 168077.015 ---
+Accident Summary Nr: 168077.015 - Employee is electrocuted when making contact with overhead p
+
+Abstract: At 9:45 a.m. on July 3, 2024, an employee was assisting a coworker in taking down a 44-foot aluminum extension ladder. During the process, the employees lost control of the ladder, which contacted an overhead power line. The employee sustained fatal injuries due to electrocution.
+
+Keywords: Contact, Electrical Work, Electrocuted, Ladder, Lost Control, Overhead Power Line, Power Lines.
+
+--- ID: 168105.015 ---
+Accident Summary Nr: 168105.015 - Employee falls while climbing ladder to reach tree branch, l
+
+Abstract: At 8:00 a.m. on July 8, 2024, Employee #1 was climbing a ladder to reach a tree branch that was to be cut. The employee fell from the ladder, but no witnesses were present at the time of the incident. Emergency services were called, and the employee was transported to the hospital. The employee later died due to a fatal lung puncture, with the exact cause remaining unknown at this time.
+
+Keywords: Climbing, Fall, Fall From Elevation, Ladder, Lung, Puncture, Tree, Tree Branch.
+
+--- ID: 168113.015 ---
+Accident Summary Nr: 168113.015 - Employee falls from roof while replacing shingles, suffers f
+
+Abstract: At 9:00 a.m. on July 10, 2024, Employee #1, employed by a roofing company, was replacing roof shingles on a residential property. The employee lost balance and fell from the roof, a height of approximately 22 feet, landing on the ground. The employee suffered fatal trauma injuries to the head and was pronounced dead at the scene.
+
+Keywords: Blunt force, Blunt force trauma, Brain, Fall, Fall From Elevation, Head, Lost Balance, Roof, Shingles, Traumatic Brain Injury, Unconsciousness, Unresponsive.
+
+--- ID: 168179.015 ---
+Accident Summary Nr: 168179.015 - Employee falls from hoist and dies from blunt force trauma
+
+Abstract: At 2:47 p.m. on July 10, 2024, Employee #1, employed by a construction company, was removing debris from a construction debris tarp on the ground level. Afterward, the empty tarp was hoisted back to the roof level. The employee was pulled up by the hoist and carried up to the 18th floor. The employee then fell approximately 18 stories (180 feet) to the ground level (yard). The employee suffered fatal blunt force trauma upon impact and was killed.
+
+Keywords: Blunt force, Blunt force trauma, Fall, Fall From Elevation, Hoist, Unconsciousness, Unresponsive.
+
+--- ID: 168250.015 ---
+Accident Summary Nr: 168250.015 - Employee falls from roof and sustains fatal injuries
+
+Abstract: At 10:00 a.m. on July 8, 2024, Employee #1, employed by a roofing company, was installing shingle clips for heat tape on a roof. The employee fell from the roof, approximately 19.7 feet, to the asphalt driveway. The mechanism or cause of the fall is unknown. The employee sustained fractures to the face, head, and upper body as a result of the fall. Emergency services responded, but the employee was pronounced dead at the scene.
+
+Keywords: Asphalt, Blunt force, Blunt force trauma, Concrete Pavement, Fall, Fall From Elevation, Fracture, Head, Installing, Pavement, Roof, Shingles, Torso, Unconsciousness, Unresponsive.
+
+--- ID: 168256.015 ---
+Accident Summary Nr: 168256.015 - Employee falls while unloading packages and strikes head, la
+
+Abstract: At 5:05 a.m. on July 6, 2024, Employee #1, working as a part-time supervisor, attempted to unload packages from a chute located approximately 53 inches in the air in Bay 114. After a coworker requested a trailer be moved to Bay 115 and was unable to lift boxes from the extender, Employee #1 attempted to retrieve a box. During this process, Employee #1 stumbled backward and fell onto the concrete driveway, landing on the back and striking the head. Employee #1 died from head trauma injuries six days later, on July 12, 2024.
+
+Keywords: Back, Blunt force, Blunt force trauma, Brain, Fall, Fall On Same Level, Head, Material Handling, Struck Against, Struck By, Trailer, Traumatic Brain Injury.
+
+--- ID: 168257.015 ---
+Accident Summary Nr: 168257.015 - Employee is killed in fall off ladder
+
+Abstract: At 12:00 p.m. on July 11, 2024, an employee was helping in the baggage room. The employee attempted to ascend the can loading equipment using an integrated ladder, when he lost his balance and fell backwards onto the ground. The employee fractured his ribs and was killed.
+
+Keywords: Ascending, Fall, Fall From Elevation, Fracture, Ladder, Lost Balance, Rib.
+
+--- ID: 168268.015 ---
+Accident Summary Nr: 168268.015 - Employee is killed after falling from ladder
+
+Abstract: At 11:30 a.m. on July 9, 2024, Employee #1 and a Foreman were cleaning the gutters of a house. According to the Foreman, he and Employee #1 had just come back from a five-minute break prior to the incident.  The Foreman and Employee #1 drank some water and sat in the shade during the break. Once the break was done, Employee #1 climbed back up an extension ladder to continue cleaning the gutters by hand.  The Foreman was located on the ground and was holding the ladder. According to the Foreman, he saw Employee #1 go limp while on the ladder. Employee #1 then fell approximately 20 feet to compacted soil. Employee #1 received fatal injuries to the head and internal organs.
+
+Keywords: Cleaning, Extension Ladder, Fall, Fall From Elevation, Gutter, Head, Internal Injuries, Soil.
+
+--- ID: 168298.015 ---
+Accident Summary Nr: 168298.015 - Employee is killed in fall from roof access
+
+Abstract: At 9:45 a.m. on July 15, 2024, Employee #1, employed by a construction company, was gaining access to the roof of a residential building. While attempting to gain access, the employee lost balance and fell, striking a metal cart holding concrete bracings before hitting the ground. The employee suffered fatal injuries from the fall. Emergency services were called, but the employee was pronounced dead at the scene.
+
+Keywords: Concrete, Construction, Fall, Fall From Elevation, Ground, Lost Balance, Residential Construction, Roof, Unconsciousness, Unresponsive.
+
+--- ID: 168336.015 ---
+Accident Summary Nr: 168336.015 - Employee is killed in fall from tree
+
+Abstract: At 9:30 a.m. on July 17, 2024, an employee was cutting branches.  The branch that the employee was tied off to broke, and the employee fell to the ground and was killed.
+
+Keywords: Branch, Broke, Cutting, Fall, Fall From Elevation, Tie-Off, Tree, Tree Branch.
+
+--- ID: 168340.015 ---
+Accident Summary Nr: 168340.015 - Employee is killed in fall from roof
+
+Abstract: At 12:00 p.m. on July 17, 2024, Employee #1, employed by a roofing company, was standing on a roof installing material. While bending over, the employee lost balance and fell off the roof. The employee sustained a fatal head fracture upon impact with the ground. Emergency services were called to the scene, but the employee was pronounced dead at the location.
+
+Keywords: Fall, Fall From Elevation, Fracture, Ground, Head, Installing, Lost Balance, Roof.
+
+--- ID: 168523.015 ---
+Accident Summary Nr: 168523.015 - Employee is electrocuted due to contact with power lines
+
+Abstract: At 1:00 p.m. on July 9, 2024, an employee and a coworker working as repair technicians for a telecommunication company were installing fiber optic cables from a power pole to a residence. While attempting to get the fiber optic cable across a small patch of woods, the cable crossed over a 7,620-Volt powerline. The employee was operating a bucket truck next to the powerline to retrieve the fiber optic cable. While attempting to remove the cable from the powerline, the employee contacted the high voltage line with his right shoulder. The employee was shocked and died due to electrocution.
+
+Keywords: Clearance, Contact, Electric Shock, Electrical Wire, Electrocuted, High Voltage, Installing, Line Clearance, Misjudgment, Misjudgment of Hazardous Situation, Optical Fiber Cable, PPE, Power Lines, Protective Clothing, Shock, Shoulder, Telecom Work.
+
+--- ID: 168546.015 ---
+Accident Summary Nr: 168546.015 - Employee dies from head trauma in trip and fall to pavement
+
+Abstract: At 7:30 a.m. on July 6, 2024, an employee working as a security guard for a security service was moving cones from a roadway. The employee tripped and fell and struck his head on the asphalt pavement. The employee died due to blunt force head trauma.
+
+Keywords: Asphalt, Blunt force, Blunt force trauma, Concussion, Fall, Fall On Same Level, Head, Law Enforcement, Misjudgment, Misjudgment of Hazardous Situation, Pavement, Security Guard, Tripped, Walking Surface, Work Surface.
+
+--- ID: 168551.015 ---
+Accident Summary Nr: 168551.015 - Employee dies from electrocution while performing tree trimm
+
+Abstract: At 11:00 a.m. on July 22, 2024, an employee working for a tree service had completed tree trimming duties and was preparing to climb down a tree. The employee contacted nearby energized power lines and was shocked. The employee died due to electrocution.
+
+Keywords: Clearance, Contact, Cutting, Descending, Electric Shock, Electrocuted, Insufficient Supervision, Landscaping, Line Clearance, Misjudgment, Misjudgment of Hazardous Situation, Overhead Power Line, PPE, PPE Hazard Assessment, Power Lines, Protective Clothing, Shock, Tree, Tree Care, Tree Trimming.
+
+--- ID: 168637.015 ---
+Accident Summary Nr: 168637.015 - Employee sustains head trauma in fall from roof, later dies
+
+Abstract: At 12:00 p.m. on July 23, 2024, an employee working as a roofer for a roofing contractor was removing a drip guard from a dormer on a residential roof. The employee fell approximately 11 to 14 feet from the roof to the concrete patio below. The employee sustained head trauma and was transported to the hospital and taken into surgery. The employee was placed on life support. On July 26, 2024, the employee died overnight in the hospital.
+
+Keywords: Blunt force, Blunt force trauma, Construction, Fall, Fall From Elevation, Fall Protection, Fracture, Harness, Head, Lanyard, PPE, PPE Hazard Assessment, Removing, Residential Construction, Roof, Roof Dormer, Roofer, Skull.
+
+--- ID: 168721.015 ---
+Accident Summary Nr: 168721.015 - Employee trips and falls, suffers head and neck injuries; is
+
+Abstract: At 10:30 a.m. on July 13, 2024, Employee #1, employed by a company performing concrete and brick work, was on a lunch break and walking toward the building. As the employee was approaching the building, he tripped over a 2-inch pipe railing, falling forward. The employee sustained a head laceration and injuries to the vertebrae in the neck. Emergency services were called, and the employee was transported to a local hospital.  He was pronounced dead at the hospital.
+
+Keywords: Brick, Fall, Fall From Elevation, Head, Neck, Pipe, Rail, Tripped, Vertebra, Walking Surface.
+
+--- ID: 168742.015 ---
+Accident Summary Nr: 168742.015 - Employee dies from head injury in fall from roof to concrete
+
+Abstract: At 10:00 a.m. on July 26, 2024, an employee working for a mechanical contractor was assisting with the installation of a 12-ton HVAC unit in the middle of a two-story building. The employee climbed a ladder to take water bottles to the work area on the roof when he fell 12 feet to the concrete ground below. The employee died from a head injury.
+
+Keywords: Blunt force, Blunt force trauma, Climbing, Climbing on Ladder, Commercial Building, Concrete, Concrete Surface, Fall, Fall From Elevation, Fall Protection, HVAC, Head, Installing, Lack of Engineering Controls, Ladder, Misjudgment, Misjudgment of Hazardous Situation, Roof.
+
+--- ID: 168805.015 ---
+Accident Summary Nr: 168805.015 - Employee dies of head trauma in fall from two story warehous
+
+Abstract: At 12:34 p.m. on July 30, 2024, an employee working for an industrial building contractor was working in a warehouse. The employee died when he fell due to unspecified reasons approximately two floors.
+
+Keywords: Blunt force, Blunt force trauma, Commercial Building, Construction, Fall, Fall From Elevation, Head, Lack of Engineering Controls, Warehouse.
+
+--- ID: 168840.015 ---
+Accident Summary Nr: 168840.015 - Employee dies of head trauma when knocked off ladder by door
+
+Abstract: At 12:01 p.m. on July 29, 2024, an employee working as an electrician for an electrical contractor was installing electrical conduit on a ceiling. The employee was installing the conduit to provide service from an electrical panel located in the garage. The employee was working approximately 17 feet above the ground utilizing a 28-foot fiberglass extension ladder. The ladder was struck when a coworker opened the garage door causing the employee to fall to the concrete floor. The employee died from skull fractures and a brain hemorrhage.
+
+Keywords: Blunt force, Blunt force trauma, Brain, Brain Bleed, Commercial Building, Concrete Floor, Conduit, Construction, Door, Electrical Work, Electrician, Extension Ladder, Fall, Fall From Elevation, Fracture, Head, Hemorrhage, Installing, Knocked from, Knocked off, Lack of Work Procedures, Ladder, Skull, Training, Traumatic Brain Injury, Work Surface.
+
+--- ID: 168908.015 ---
+Accident Summary Nr: 168908.015 - Employee is killed when falls through skylight
+
+Abstract: At 9:00 a.m. on August 1, 2024, an employee was laying out his fall harness. The employee fell through an unmarked skylight onto concrete, suffering massive head and body trauma. The employee was killed.
+
+Keywords: Blunt force trauma, Concrete Floor, Fall, Fall From Elevation, Fall Protection, Harness, Head, Skylight, Torso.
+
+--- ID: 168911.015 ---
+Accident Summary Nr: 168911.015 - Employee is killed due to suspected carbon monoxide poisonin
+
+Abstract: At 10:45 a.m. on August 1, 2024, an employee was found unconscious after pressure washing the inside of a walk-in cooler with a gas operated pressure washer.  The employee was killed due to suspected carbon monoxide poisoning.
+
+Keywords: Carbon Monoxide, Cooler, Gas, Inhalation, Poisoning, Pressure Wash, Unconsciousness.
+
+--- ID: 168946.015 ---
+Accident Summary Nr: 168946.015 - Employee is killed when falls and strikes head on ground
+
+Abstract: At 2:45 p.m. on August 5, 2024, an employee was unloading boxes of food products from a palletized load. When the shrink wrap holding the palletized load together was cut and removed by the delivery driver, the boxes of food product became unstable and fell onto the ground.  During this time, the employee was grabbing a box of liquid eggs, and then fell, striking his head on the ground. The employee was killed due to blunt head trauma.
+
+Keywords: Blunt force trauma, Boxes, Fall, Fall On Same Level, Falling Object, Head, Palletized Cargo, Struck Against, Struck By, Unloading, Unstable Load.
+
+--- ID: 169112.015 ---
+Accident Summary Nr: 169112.015 - Employee is killed when electrocuted and falls from ladder w
+
+Abstract: At 9:41 a.m. on August 8, 2024, Employee #1 and a coworker were identifying an electrical circuit in preparation for upgrading light fixtures. Employee #1 was standing on the cap of a 10-foot stepladder when he received an electric shock. The shock caused Employee #1 to lose balance and fall to the concrete floor. Employee #1 sustained severe blunt force head and neck injuries, along with electrical burn injuries to the left foot. Employee #1 died from the injuries.
+
+Keywords: Blunt force, Blunt force trauma, Circuit Breaker, Concrete Floor, Electric Shock, Electrocuted, Fall, Fall From Elevation, Foot, Head, Ladder, Lost Balance, Neck.
+
+--- ID: 169200.015 ---
+Accident Summary Nr: 169200.015 - Employee falls from silo and sustains fatal injuries
+
+Abstract: At 4:30 a.m. on August 13, 2024, Employee #1 was climbing up a silo when he fell to the ground level. The employee sustained fatal blunt force injuries to the head and body after landing on a cement floor. Emergency services responded, but the employee was pronounced dead at the scene.
+
+Keywords: Blunt force, Blunt force trauma, Concrete Floor, Fall, Fall From Elevation, Fall Protection, Ground, Head, Silo, Unconsciousness, Unresponsive.
+
+--- ID: 169222.015 ---
+Accident Summary Nr: 169222.015 - Employee dies after fall from scaffold
+
+Abstract: At 8:15 a.m. on July 29, 2024, two employees were performing finishing work that entailed stapling plastic poly sheeting to the ceiling of a 16-foot garage. The employee, a laborer, was working from a scaffold, approximately 130 inches in height, to install the sheeting, while the coworker was working from a scissor lift. The employee working from the scaffold fell to the concrete floor. The coworker did not see the fall. The scaffold did not have guardrails and was not fully planked.  The employee died at the hospital from a brain bleed.
+
+Keywords: Brain Bleed, Ceiling, Concrete Floor, Fall, Fall From Elevation, Guardrail, Installing, Laborer, Planking, Plastic, Scaffold, Scissor lift, Unguarded.
+
+--- ID: 169298.015 ---
+Accident Summary Nr: 169298.015 - Employee dies from head injury in fall when door strap snaps
+
+Abstract: At 7:25 a.m. on August 12, 2024, an employee working as a truck driver for a freight company was securing a load prior to transportation. The employee pulled the strap from the back door of the trailer down to close it when the strap broke. This caused the employee to fall to the ground striking the back of his head. The employee died from a cranial injury.
+
+Keywords: Blunt force, Blunt force trauma, Brain, Break, Defect, Defective, Defective Equipment, Door, Fall, Fall On Same Level, Freight, Head, Loading, Pavement, Pulling, Skull, Strap, Struck Against, Trailer, Traumatic Brain Injury, Truck Driver.
+
+--- ID: 169522.015 ---
+Accident Summary Nr: 169522.015 - Employee is fatally injured in moffett truck incident
+
+Abstract: At 3:15 p.m. on August 15, 2024, Employee #1 was operating a moffett truck to move a load of wood down a steep driveway. The truck slid down the hill and fell approximately 25 feet to a lower surface. Employee #1 sustained fatal injuries. The specifics of the injuries are not known at this time.
+
+Keywords: Blunt force, Blunt force trauma, Fall, Loading, Truck, Unconsciousness, Unresponsive, Wood.
+
+--- ID: 169524.015 ---
+Accident Summary Nr: 169524.015 - Employee suffers fatal heat-related illness
+
+Abstract: At 4:30 p.m. on August 21, 2024, Employee #1 was installing piping at a sewage plant when he reported feeling unwell and got some water. The foreman checked on him, and Employee #1 stated he would sit down for a minute. He then sat in a car and lost consciousness. Emergency services were called, but upon arrival, Employee #1 had no pulse and was pronounced dead at the scene. The incident appears to be heat-related.
+
+Keywords: Heat, Heat Exhaustion, Installing, Sewage, Unconsciousness, Unresponsive.
+
+--- ID: 169526.015 ---
+Accident Summary Nr: 169526.015 - Employee falls from ladder and sustains fatal head injury
+
+Abstract: At 11:30 a.m. on August 14, 2024, Employee #1, a 62-year-old male, was replacing ceiling tiles in a hallway near the gym. While stepping down from the first rung of a ladder, he lost his balance and fell, striking his head against a concrete wall. Employee #1 sustained a brain bleed and died from his injuries.
+
+Keywords: Brain, Brain Bleed, Climbing on Ladder, Descending, Descending Ladder, Fall, Fall From Elevation, Head, Ladder, Lost Balance, Struck Against, Struck By.
+
+--- ID: 169537.015 ---
+Accident Summary Nr: 169537.015 - Employee is struck by falling dock board and sustains fatal
+
+Abstract: At 4:45 p.m. on August 23, 2024, A coworker was operating a Yale sit-down forklift at the R22 loading dock for rail cars after completing a loading operation. Employee #1 was assisting with closing a stuck rail car door by attaching a metal chain. The coworker used the forklift to lift a Torbeck Dock Board (Model: 9298/72, Serial: 10966) that connected the dock to the rail car. The dock board slipped off the forklift's forks and fell, striking Employee #1 in the neck and head. Employee #1 sustained a severe neck laceration and head trauma, resulting in fatal injuries.
+
+Keywords: Blunt force, Blunt force trauma, Brain, Dock, Falling Object, Forklift, Head, Neck, Slip, Struck Against, Struck By.
+
+--- ID: 169555.015 ---
+Accident Summary Nr: 169555.015 - Employee is killed when falls from aerial lift truck after b
+
+Abstract: At 7:54 a.m. on August 23, 2024, Employee #1, a co-owner of a tree trimming business, was working from an aerial lift truck. While trimming a tree, a branch fell onto the boom of the lift truck, causing the bucket to bounce.  Employee #1 fell from the bucket to the ground. The impact resulted in blunt trauma arrest, leading to fatal injuries.
+
+Keywords: Aerial Lift, Blunt force, Blunt force trauma, Branch, Fall, Fall Protection, Ground, Struck Against, Struck By, Tree Branch, Tree Trimming, Truck.
+
+--- ID: 169570.015 ---
+Accident Summary Nr: 169570.015 - Employee is killed when involved in vehicle crash during bre
+
+Abstract: At 5:12 p.m. on August 25, 2024, Employee #1 was on a 15-minute break while sitting in their car in the company parking lot. A vehicle traveling on Crystal Hill Road, adjacent to the parking lot, crashed into the car in which the employee was taking a break. The collision caused blunt force trauma to the employee's head and neck. The employee was fatally injured.
+
+Keywords: Blunt force, Blunt force trauma, Brain, Head, Neck, Traffic Accident, Traumatic Brain Injury, Vehicle.
+
+--- ID: 169574.015 ---
+Accident Summary Nr: 169574.015 - Employee dies after falling from ladder
+
+Abstract: At 7:48 a.m. on July 31, 2024, an employee was climbing a portable extension ladder to access the roof of a residential house. The employee fell from the ladder and was taken to the hospital. The employee used a ladder that broke while he was climbing it. On August 13, 2024, the employee died in the hospital from his injuries.
+
+Keywords: Broke, Climbing, Climbing on Ladder, Extension Ladder, Fall, Fall From Elevation, Residential Construction, Roof.
+
+--- ID: 169577.015 ---
+Accident Summary Nr: 169577.015 - Employee dies from heat stroke after working outdoors
+
+Abstract: At 4:30 p.m. on August 20, 2024, Employee #1, a mechanic, was working on repairing a backhoe outside the shop. The employee checked out of work around 3:30 p.m. and went home, where he told his spouse he was feeling dizzy and overheated. After taking a shower, the employee passed out and was found by his spouse, who called 911. The employee was later pronounced dead, with the cause of death determined to be heat stroke. The employer had not provided water for employees and did not monitor fluid intake throughout the day.
+
+Keywords: Backhoe, Heat Stroke, Heat-related illness , Mechanic, Unconsciousness, Unresponsive, Water.
+
+--- ID: 169580.015 ---
+Accident Summary Nr: 169580.015 - Employee falls from ladder and is killed
+
+Abstract: At 12:30 p.m. on August 21, 2024, Employee #1 was working at a jobsite in Fort Mill, South Carolina, tasked with cutting and measuring siding for fellow employees to install on the exterior of a home and garage. After grabbing a 28-foot Werner extension ladder, Employee #1 set it up approximately 14 feet above ground level against the garage. While attempting to measure for the siding, the ladder pierced the weather barrier, causing it to shift and causing Employee #1 to lose his balance. The employee fell approximately 14 feet to the ground, which was covered with small stones, and sustained fatal injuries.
+
+Keywords: Blunt force, Blunt force trauma, Climbing, Descending, Descending Ladder, Fall, Fall From Elevation, Ground, Ladder, Slip, Unconsciousness, Unresponsive.
+
+--- ID: 169600.015 ---
+Accident Summary Nr: 169600.015 - Employee is killed when pinned between harvester body and ti
+
+Abstract: At 11:30 a.m. on August 24, 2024, Employee #1, employed in the almond orchard industry, was operating a Flory Model 8500 Harvester. During the harvest, Employee #1 was found pinned between the body of the harvester and the front left tire. Emergency services responded, but the employee was pronounced dead at the scene.
+
+Keywords: Caught Between, Caught By, Caught In, Pinned, Tire, Unconsciousness, Unresponsive.
+
+--- ID: 169608.015 ---
+Accident Summary Nr: 169608.015 - Employee is caught in conveyor and sustains fatal crushing h
+
+Abstract: At 7:37 p.m. on August 22, 2024, Employee #1, employed at a VRT freezer facility, was checking the chains on the gears of the Variable Rate Temperature (VRT) freezer conveyor (Equipment #444). While a coworker was making radio contact with the VRT Operator in the control booth, Employee #1 informed the coworker to turn the power back on. The coworker walked to the control panel next to the conveyor, released the emergency stop (estop), and pressed the start button to resume operation of the conveyor. Upon activation, the coworker noticed Employee #1 had become caught between the flight bars of the conveyor. Employee #1 sustained a severe crushing head injury and was pronounced dead at the scene.
+
+Keywords: Caught Between, Caught By, Caught In, Conveyor, Crushed, Head, Unconsciousness, Unresponsive.
+
+--- ID: 169622.015 ---
+Accident Summary Nr: 169622.015 - Employee collapses and dies due to acute fentanyl and xylazi
+
+Abstract: At 12:18 p.m. on August 23, 2024, Employee #1 was preparing to go on a property walk when they stopped by the fitness center. While inside, the employee collapsed. A coworker discovered the employee, following instructions from dispatch (911), began performing CPR. Emergency responders transported the employee to the hospital's emergency room, where CPR continued, and the employee was intubated and administered medication. Despite these efforts, the employee did not respond to treatment and was pronounced dead. The County of Riverside Coroner's Office report indicated that the cause of death was acute fentanyl and xylazine intoxication.
+
+Keywords: CPR, Drug Overdose, Unconsciousness, Unresponsive.
+
+--- ID: 169659.015 ---
+Accident Summary Nr: 169659.015 - Employee is fatally struck by vehicles while crossing highwa
+
+Abstract: At 11:50 a.m. on August 23, 2024, Employee #1 and a coworker were working to remove signs from a highway work area after completing overnight work in which one lane had been closed. While attempting to cross a 4-lane highway outside the work zone area, Employee #1 was struck by two vehicles. The employee sustained fatal injuries and was pronounced dead at the scene.
+
+Keywords: Blunt force, Blunt force trauma, Highway, Highway work zone, Struck Against, Struck By, Traffic Accident, Unconsciousness, Unresponsive, Vehicle, Work zone.
+
+--- ID: 169677.015 ---
+Accident Summary Nr: 169677.015 - Employee is fatally injured in mower rollover
+
+Abstract: At 9:30 a.m. on August 28, 2024, Employee #1 was operating a SCAG Cheetah commercial zero-turn lawn mower (Model: SCZ61V-35CV-EFI, Serial Number: L6800529) at a residential dwelling. While mowing along the driveway in the front yard, the mower rolled over onto the employee, causing fatal crushing injuries. The section of the front yard where the incident occurred had a slope ranging from approximately sixteen to twenty-six degrees. At the time of the incident, the mower's Rollover Protection System (ROPS) was not installed in the vertical position, and the mower manufacturer specified that the mower should not be used on slopes greater than fifteen degrees. The mower's weight was approximately 1,350-1,365 lbs. The employee sustained crushing and concussive injuries to the head and upper body due to the rollover.
+
+Keywords: Abdomen, Blunt force, Blunt force trauma, Concussion, Crushed, Head, Lawn Mower, ROPS, Roll-Over, Torso.
+
+--- ID: 169679.015 ---
+Accident Summary Nr: 169679.015 - Employee is fatally injured in ladder fall
+
+Abstract: At 7:14 p.m. on August 19, 2024, Employee #1 was decorating a bulletin board at an elevated height outside the cafeteria/gym. Employee #1 used a MULTI-POSITION PRO ladder to reach a height of eleven feet and five inches. The ladder, which uses J-locks and push knobs to secure its position, collapsed as Employee #1 stepped onto the fifth rung, causing the employee to fall backward onto the concrete landing surface. The ladder was owned by an outside contractor who was painting the cafeteria/gym area before school started the following day. Employee #1 suffered a fractured skull, a laceration on the back of the head, and both a right subdural hematoma and a left epidural hematoma, which resulted in a fatality.
+
+Keywords: Blunt force, Blunt force trauma, Brain, Fall, Fracture, Head, Laceration, Ladder, Skull, Subdural Hematoma, Traumatic Brain Injury.
+
+--- ID: 169690.015 ---
+Accident Summary Nr: 169690.015 - Employee falls after completing loading, later dies
+
+Abstract: At 11:50 a.m. on August 28, 2024, Employee #1 had just completed loading product onto a tractor-trailer at the loading dock. While walking toward the tractor to inform the driver that he was ready to go, Employee #1 fell face-first onto the concrete ground. The truck driver went inside the building to notify others of the incident, and several employees began CPR while 911 was called. The AED was used, and the fire department transported the employee to the hospital. The employer was later informed by another employee that Employee #1 died in the hospital. The cause of death is pending a medical review, with a possible underlying medical issue.
+
+Keywords: AED, CPR, Concrete, Driver, Fall, Fall From Elevation, Ground, Loading, Loading Dock, Material Handling, Unconsciousness, Unresponsive.
+
+--- ID: 169700.015 ---
+Accident Summary Nr: 169700.015 - Employee is found unconscious in car after lunch break
+
+Abstract: At 1:00 p.m. on August 22, 2024, Employee #1, a 52-year-old male, was taking a lunch break while working with Hallmark Properties Inc, a property management group overseeing multiple complexes. After returning from his break, the employee was found unconscious and unresponsive in his car. The Contra Costa Coroner's Office was notified of the incident at approximately 1:54 p.m., and the undersigned CSHO arrived at the site shortly thereafter. The cause of death, as reported by the coroner, is not work-related. The employer was cited for lacking required programs during the inspection, including General-1509(a), General-3395(h), and General-3395(i) referencing 3203(a).
+
+Keywords: Unconsciousness, Unresponsive.
+
+--- ID: 169713.015 ---
+Accident Summary Nr: 169713.015 - Employee falls from golf car and sustains fatal head injury
+
+Abstract: At approximately 9:00 p.m. (CST) on August 21, 2024, an employee of Red Wing Municipal Golf Corporation, operating as Mississippi National Golf Links, was riding in the back of a 2024 Yamaha DR2 EFI Golf Car, where the golf clubs were stored. The employee, along with two other coworkers, was moving golf cars from the garage to the clubhouse to stage them for an upcoming event. While returning to collect more cars, the operator lost control of the vehicle and struck a curb. Neither the operator nor the passenger seated in the front of the car witnessed the rear rider fall off. The rear rider fell from the golf car, hitting his head on the asphalt ground, sustaining fatal injuries. The employee died the following day in the hospital. Weather conditions were not a factor in the incident.
+
+Keywords: Asphalt, Brain, Fall, Fall From Elevation, Golf Cart, Ground, Head, Lost Control, Traumatic Brain Injury, Unconsciousness, Unresponsive.
+
+--- ID: 169717.015 ---
+Accident Summary Nr: 169717.015 - Employee dies when electrocuted while welding elevated pipe
+
+Abstract: At 2:49 p.m. on August 27, 2024, Employee #1 was working at an elevated position welding a 20-inch pipe. The employee was preparing to connect the welding rod to the stinger when he was suddenly shocked. Witnesses reported that the employee's body locked up upon attachment of the rod to the stinger, and they were unable to remove the stinger from his hand until the welding machine was turned off. The employee was electrocuted and later died from the injuries.
+
+Keywords: Electric Arc, Electrocuted, Hand, Pipe, Welding.
+
+--- ID: 169728.015 ---
+Accident Summary Nr: 169728.015 - Employee is killed when caught between machine and product r
+
+Abstract: At 6:00 a.m. on August 29, 2024, Employee #1 was working to clear spilled product from inside the Retort machine. While attempting to perform the task, the employee became caught between the top lip of the machine opening and a rack of product being loaded into the opening. The employee sustained crushing injuries to the chest and was fatally injured.
+
+Keywords: Automatic Machine, Blunt force, Blunt force trauma, Caught Between, Caught By, Caught In, Chest, Crushing, Loading.
+
+--- ID: 169731.015 ---
+Accident Summary Nr: 169731.015 - Employee is killed when crushed by forklift
+
+Abstract: At 5:15 p.m. on August 27, 2024, Employee #1 was tasked with loading retail products from an 18-wheel truck to a warehouse. While backing up, the forklift fell off the ramp leading to the trailer, causing the employee's head to be crushed between the ground and the overhead bars of the forklift. The employee sustained fatal injuries and was pronounced dead at the scene.
+
+Keywords: Blunt force, Blunt force trauma, Crushed, Forklift, Head, Loading, Material Handling, Semi Tractor Trailer, Trailer, Unconsciousness, Unresponsive.
+
+--- ID: 170271.015 ---
+Accident Summary Nr: 170271.015 - Employee dies after fall from roof
+
+Abstract: At 4:00 p.m. on July 24, 2024, an employee was sitting on a roof. The employee had on fall protection equipment but was not tied off. It is believed that the employee fainted from overexposure to extreme heat conditions and fell from the roof.  The employee suffered a subdural hematoma, femur fracture, rib fracture, and multiple facial fractures and later died.
+
+Keywords: Face, Fainted, Fall, Fall From Elevation, Fall Protection, Femur, Fracture, Heat, Heat Injury Prevention Program, Heat index, Heat-related illness , Rib, Roof, Subdural Hematoma, Tie-Off.
+
+--- ID: 170652.015 ---
+Accident Summary Nr: 170652.015 - Employee sustains concussion when struck by flying concrete
+
+Abstract: At 10:30 a.m. on October 3, 2024, an employee working as a concrete finisher for a building contractor was pouring concrete. The employee was using a dispensing hose to deposit concrete forming patios and sidewalks. A restriction formed in the pumping hose resulting in a pressure surge and causing the hose to whip. The employee was struck by the hard end of the hose and hospitalized to treat a concussion.
+
+Keywords: Clogged, Commercial Building, Concrete, Concrete Finisher, Concrete Form Work, Concussion, Construction, Flying Object, Head, High Pressure, Hose, Material Handling, Multi-employer Worksite, Multiemployer, Neck, Overpressure, Pressure, Pump, Struck By.
+
+--- ID: 170763.015 ---
+Accident Summary Nr: 170763.015 - Employee dies after fall from roof
+
+Abstract: At 10:25 a.m. on July 5, 2024, three employees were removing and replacing fiberglass roofing panels on the top of a warehouse building. Employee #1 stepped on one of the panels, the panel broke, and the employee fell approximately 26 feet onto a stack of metal pipes stored below. Employee #1 was transported to a local hospital, where he died on July 11, 2024 from injuries sustained in the fall. Employee #1 suffered blunt force trauma to the head and upper torso.
+
+Keywords: Blunt force trauma, Broke, Fall, Fall From Elevation, Fiberglass, Head, Metal Pipe, Removing, Replacing, Roof, Roof Panel, Torso, Warehouse.
+
+--- ID: 171749.015 ---
+Accident Summary Nr: 171749.015 - Employee falls from lift gate and dies from blunt force trau
+
+Abstract: At approximately 7:00 a.m. on July 25, 2024, Employee #1, a Field Service Representative (FSR), was loading a Ryder 26ft refrigerated box truck with the lift gate raised. A coworker lowered the left gate to assist Employee #1. Employee #1, unaware the gate had been lowered, stepped out while carrying two boxes and fell to the ground. Emergency services were contacted, and Employee #1 was transported to the hospital. On July 26, 2024, Employee #1 died from blunt force trauma to the head and neck.
+
+Keywords: Blunt force, Blunt force trauma, Fall, Fall From Elevation, Fall Protection, Head, Liftgate, Material Handling, Neck.
+
+>>> OSHA PREVENTIVE ANALYSIS TEXTS <<<
+4. Ladders: 1926.1053
+Ladder violations are the number one violation in the construction industry in 2022, with 2,143 violations issued. In contrast, 2,026 were issued in 2021.
+Per OSHA’s standards, ladders must not be overloaded, must be free from hazards like grease or anything else that makes them slippery, and defective portable ladders must be labeled and taken out of service. Usage standards are also provided for employees, including dictating that while climbing, workers must be facing the ladder and always have at least one hand on it. Further standards outlining the usage of different types of ladders exist as well.
+
+8. Fall Protection (Training): 1926.503
+Fall protection training violations are down in 2022 compared to 2021, with 110 fewer in 2022. However, there were still 1,556 violations issued for failing to meet OSHA’s standard on fall protection training.
+According to OSHA standards, employers must educate workers through a training program that includes hazard identification, how to mitigate hazards, fall protection and fall arrest systems, and other fall-related information. Employers must also have written documentation to verify employees have completed this training.
+
+9. Personal Protective Equipment: 1926.102
+2022 saw a similar number of personal protective equipment violations as 2021, with 1,401 issued in 2022.
+Despite the number of violations not changing, this violation fell one rank from 2021, from the eighth most common to the ninth. Workers must use protection when working with or exposed to hazards such as chemicals, liquids, gasses or vapors, light radiation, flying particles, and other harmful materials. Likewise, workers working in areas with potential flying objects must also wear eye protection with covered sides.

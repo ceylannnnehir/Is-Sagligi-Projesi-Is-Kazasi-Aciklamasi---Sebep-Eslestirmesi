@@ -1,0 +1,5 @@
+Accident Summary Nr: 169677.015 - Employee is fatally injured in mower rollover
+
+Abstract: At 9:30 a.m. on August 28, 2024, Employee #1 was operating a SCAG Cheetah commercial zero-turn lawn mower (Model: SCZ61V-35CV-EFI, Serial Number: L6800529) at a residential dwelling. While mowing along the driveway in the front yard, the mower rolled over onto the employee, causing fatal crushing injuries. The section of the front yard where the incident occurred had a slope ranging from approximately sixteen to twenty-six degrees. At the time of the incident, the mower's Rollover Protection System (ROPS) was not installed in the vertical position, and the mower manufacturer specified that the mower should not be used on slopes greater than fifteen degrees. The mower's weight was approximately 1,350-1,365 lbs. The employee sustained crushing and concussive injuries to the head and upper body due to the rollover.
+
+Keywords: Abdomen, Blunt force, Blunt force trauma, Concussion, Crushed, Head, Lawn Mower, ROPS, Roll-Over, Torso

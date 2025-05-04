@@ -1,0 +1,5 @@
+Accident Summary Nr: 168340.015 - Employee is killed in fall from roof
+
+Abstract: At 12:00 p.m. on July 17, 2024, Employee #1, employed by a roofing company, was standing on a roof installing material. While bending over, the employee lost balance and fell off the roof. The employee sustained a fatal head fracture upon impact with the ground. Emergency services were called to the scene, but the employee was pronounced dead at the location.
+
+Keywords: Fall, Fall From Elevation, Fracture, Ground, Head, Installing, Lost Balance, Roof

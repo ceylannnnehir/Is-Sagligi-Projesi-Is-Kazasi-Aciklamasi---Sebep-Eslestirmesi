@@ -1,0 +1,5 @@
+Accident Summary Nr: 168523.015 - Employee is electrocuted due to contact with power lines
+
+Abstract: At 1:00 p.m. on July 9, 2024, an employee and a coworker working as repair technicians for a telecommunication company were installing fiber optic cables from a power pole to a residence. While attempting to get the fiber optic cable across a small patch of woods, the cable crossed over a 7,620-Volt powerline. The employee was operating a bucket truck next to the powerline to retrieve the fiber optic cable. While attempting to remove the cable from the powerline, the employee contacted the high voltage line with his right shoulder. The employee was shocked and died due to electrocution.
+
+Keywords: Clearance, Contact, Electric Shock, Electrical Wire, Electrocuted, High Voltage, Installing, Line Clearance, Misjudgment, Misjudgment of Hazardous Situation, Optical Fiber Cable, PPE, Power Lines, Protective Clothing, Shock, Shoulder, Telecom Work

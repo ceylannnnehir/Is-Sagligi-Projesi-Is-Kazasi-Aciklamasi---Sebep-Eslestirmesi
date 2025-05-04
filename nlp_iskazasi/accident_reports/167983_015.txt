@@ -1,0 +1,5 @@
+Accident Summary Nr: 167983.015 - Employee is electrocuted after ladder contacts power line
+
+Abstract: At 12:00 a.m. on June 28, 2024, an employee working at a tree trimming job site was holding an aluminum ladder while a coworker used a pole saw to trim a tree. During the trimming process, the pole saw struck a power line, causing the electrical current to travel through the aluminum ladder that the employee was holding. The electrical shock resulted in the employee's fatality.  Another coworker, who was not fatally injured, was also in the vicinity when the power line was struck.
+
+Keywords: Contact, Electric Shock, Electrocuted, Ladder, Power Lines, Saw, Tree Trimming
