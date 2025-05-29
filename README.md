@@ -102,4 +102,60 @@
   Kaza türlerine göre önlem stratejileri geliştirmek
 
   İş güvenliği raporları üretmek ve metin madenciliği yapmak
+  
 
+## Kullanılan Yöntemler (Ödev2) ##
+  1. TF-IDF Benzerlik (TF-IDF_Benzerlik.py)
+
+    Cümleler TfidfVectorizer ile vektörleştirilir.
+    
+    Kosinüs benzerliği hesaplanarak en yakın 5 cümle seçilir.
+    
+    Benzerlik skorlarına göre 1–5 arası puanlama yapılır. En benzer 5 cümlenin ortalama skorları hesaplanmaktadır.
+    
+    Hem lemmatized hem de stemmed cümleler için çalıştırılır.
+
+  2. Word2Vec Benzerlik (Word2Vec_Benzerlik.py)
+   
+    Giriş cümlesi ve tüm corpus ön işleme tabi tutulur.
+    
+    Daha önce eğitilmiş 16 farklı Word2Vec modeli kullanılır:
+    
+    CBOW / SkipGram
+    
+    window: 2 / 4
+    
+    vector_size: 100 / 300
+    
+    lemma / stem
+
+    Benzerlik skorlarına göre 1–5 arası puanlama yapılır. En benzer 5 cümlenin ortalama skorları hesaplanmaktadır.
+    
+    Her model için giriş cümlesi ile diğer cümlelerin ortalama vektörleri karşılaştırılır.
+    
+    En benzer 5 cümle ve ortalama skorlar çıktılanır.
+  3. Jaccard Benzerlik (jaccard_Benzerlik.py)
+
+    Önceden belirlenmiş TF-IDF ve  Word2Vec modellerinde veri setinden giriş metni seçilerek       ilk 5 benzer dosyalarını top5 matrisinde tutulmakta ve bu matrisde karşılaştırma         yapılmaktadır.
+    
+    Jaccard katsayısı ile benzerlik matrisi oluşturulur.
+    
+    Sonuçlar jaccard_benzerlik_matrisi.csv dosyasına yazılır.
+
+  ----- Puanlama Sistemi ------
+| Benzerlik Aralığı | Puan | Açıklama                       |
+| ----------------- | ---- | ------------------------------ |
+| 0.95 – 1.00       | 5    | Çok güçlü benzerlik, aynı tema |
+| 0.75 – 0.95       | 4    | Anlamlı ve açık benzerlik      |
+| 0.60 – 0.75       | 3    | Orta düzeyde benzer            |
+| 0.45 – 0.60       | 2    | Zayıf ama ilişkili             |
+| 0.00 – 0.45       | 1    | Alakasız                       |
+
+    
+    
+
+##### Notlar #####
+
+    lemmatized_sentences.csv ve stemmed_sentences.csv dosyaları giriş cümleleri listesini içerir.
+
+    query_index sabiti, giriş cümlesi olarak kullanılacak cümleyi belirtir. Öntanımlı değer: 7.
